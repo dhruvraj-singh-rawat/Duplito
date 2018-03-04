@@ -5,6 +5,7 @@
 ## Getting Started
 
 Following are the instruction to you need to follow to get this project up and running into your local machine for testing and development purporse.
+
 Following are the steps to create Python virtual environment to create an isolated environment for this Python project. This is recommended so that this project and each other project can have its own dependencies, regardless of what dependencies every other project has.
 
 
