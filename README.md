@@ -4,33 +4,27 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Following are the instruction to you need to follow to get this project up and running into your local machine for testing and development purporse.
+Following are the steps to create Python virtual environment to create an isolated environment for this Python project. This is recommended so that this project and each other project can have its own dependencies, regardless of what dependencies every other project has.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+Following are the step by step to get a development env running
 
-Say what the step will be
-
+    1. Visit the Anaconda homepage.
+    2. Click “Anaconda” from the menu and click “Download” to go to the download page.
+    3. Choose the download suitable for your platform (Windows, OSX, or Linux):
+    4. Follow the Installation wizard.
+    5. Open the Anaconda Prompt and enter the following to create a python env
 ```
-Give the example
+conda create -n myenv python=3.5
 ```
-
-And repeat
-
+    6. Then enter the following commands to install the required dependencies for this project. 
 ```
-until finished
+conda install -n myenv scikit-learn
+conda install -n myenv pandas
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
