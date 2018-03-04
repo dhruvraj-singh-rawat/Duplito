@@ -1,6 +1,6 @@
-# Duplito - An 
+# Duplito 
 
-One Paragraph of project description goes here
+**Duplito** is a result of the Analytics Assignment of HackerCamp Summer 2018 where the main aim is to create a robust model which can Identify Variation in names and identifying a unique person and hence solve deduplication of records comming from multiple sources.
 
 ## Getting Started
 
@@ -60,9 +60,7 @@ Give an example
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [LinkedIn](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Dhruvraj Singh Rawat** - *Initial work* - [LinkedIn](https://github.com/PurpleBooth)
 
 ## Acknowledgments
 
