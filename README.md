@@ -40,9 +40,9 @@ python Duplito.py
 ```
 
 Note: The program would pick the database from database directory and remove all the duplicate values from it and output it in Result.csv 
-## Program I/O
+## Sample Program I/O
 
-For program *input/output* please check *dataset file* in dataset directory of this *repository* for **input** and **result.csv** for the output on that dataset.
+For Sample *input/output* this program is taking *dataset file* in dataset directory of this *repository* as **input** and **result.csv** as the output on that dataset.
 
 ## FAQ
 Q: Why this repository named Duplito ?
