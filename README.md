@@ -6,7 +6,7 @@
 
 Following are the instruction to you need to follow to get this project up and running into your local machine for testing and development purporse.
 
-Following are the steps to create Python virtual environment to create an isolated environment for this Python project. This is recommended so that this project and each other project can have its own dependencies, regardless of what dependencies every other project has.
+Following are the steps to create Python virtual environment for this project. This is recommended so that this project and other project can have its own dependencies, regardless of what dependencies every other project has.
 
 
 ### Installing
@@ -27,25 +27,19 @@ conda install -n myenv scikit-learn
 conda install -n myenv pandas
 ```
 
-## Running the tests
+## Running the Code 
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+1. Download/Clone this repository.
+2. Go the location and open Anaconda Prompt/Termial and start the environment by 
 ```
-Give an example
+activate myenv
+```
+3. After this you can run the program by executing the following line.
+```
+python Duplito.py
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Note: The program would pick the database from database directory and remove all the duplicate values from it and output it in Result.csv 
 
 ## Built With
 
@@ -55,7 +49,7 @@ Give an example
 
 ## Authors
 
-* **Dhruvraj Singh Rawat** - *Initial work* - [LinkedIn](https://github.com/PurpleBooth)
+* **Dhruvraj Singh Rawat** - [LinkedIn](https://github.com/PurpleBooth)
 
 ## Acknowledgments
 
