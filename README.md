@@ -44,6 +44,11 @@ Note: The program would pick the database from database directory and remove all
 
 For program *input/output* please check *dataset file* in dataset directory of this *repository* for **input** and **result.csv** for the output on that dataset.
 
+## FAQ
+Q: Why this repository named Duplito ?
+
+Just Magneto in X-Men is able to attract all the **magnetic substances** towards himself, same way this program is able to attract all the **duplicate sample** and leaves only original samples in *result.csv*
+
 
 ## Built With
 
