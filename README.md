@@ -40,6 +40,10 @@ python Duplito.py
 ```
 
 Note: The program would pick the database from database directory and remove all the duplicate values from it and output it in Result.csv 
+## Program I/O
+
+For program *input/output* please check *dataset file* in dataset directory of this *repository* for **input** and **result.csv** for the output on that dataset.
+
 
 ## Built With
 
