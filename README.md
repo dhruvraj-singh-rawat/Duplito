@@ -47,7 +47,7 @@ For program *input/output* please check *dataset file* in dataset directory of t
 ## FAQ
 Q: Why this repository named Duplito ?
 
-Just Magneto in X-Men is able to attract all the **magnetic substances** towards himself, same way this program is able to attract all the **duplicate sample** and leaves only original samples in *result.csv*
+Just like Magneto in X-Men is able to attract all the **magnetic substances** towards himself, same way this program is able to attract all the **duplicate sample** and leaves only original samples in *result.csv*
 
 
 ## Built With
