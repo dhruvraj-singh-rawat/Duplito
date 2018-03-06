@@ -82,7 +82,7 @@ from sklearn.cluster import KMeans # Importing KMeans clustering algorithm
 
 # Here we are passing different value of cluster (k) and finding the Silhouette for the same
 score=[]
-for i in range(2,100):
+for i in range(2,len(Final_1)):
     Kmeans_model=KMeans(n_clusters=i).fit(Final_1)
     labels=Kmeans_model.labels_
     score.append(silhouette_score(Final_1,labels))
