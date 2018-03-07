@@ -58,7 +58,7 @@ Just like Magneto in X-Men is able to attract all the **magnetic substances** to
 
 ## Authors
 
-* **Dhruvraj Singh Rawat** - [LinkedIn](https://github.com/PurpleBooth)
+* **Dhruvraj Singh Rawat** - [LinkedIn](https://www.linkedin.com/in/dhruvrajrawat/)
 
 ## Acknowledgments
 
